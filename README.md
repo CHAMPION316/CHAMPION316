@@ -1,16 +1,23 @@
-### Hi there 👋
+### ![Coding Banner](/assets/github-royer-header.png)
 
-<!--
-**CHAMPION316/CHAMPION316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Software Developer
 
-Here are some ideas to get you started:
+## About me 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on solo projects in order to build a mixed portfolio of different projects with different languages.
+
+My main goal is to find a job as a Fullstack Software Developer and help my team become as successful as possible.
+
+I graduated from Code Institute and continue to hone on my skills by going to websites such as CodeCademy where I do coding challenges and work on new projects to improve as a dev.
+
+## Contact Me
+
+## CONTACT ME
+<a href="https://www.linkedin.com/in/royer-segura-43ab4b20a/">
+  <img
+    alt="Linkedin" target="_blank" rel="noopener noreferrer"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+## MY TECH STACK
