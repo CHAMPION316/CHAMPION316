@@ -6,9 +6,9 @@
 
 I'm currently working on solo projects to build a diverse portfolio encompassing various projects involving different programming languages.
 
-My primary objective is to secure a position as a Fullstack Software Developer and contribute to my team's maximum success.
+My primary objective is to secure a position as a Fullstack Software Developer and contribute to my team's success.
 
-I graduated from Code Institute and am continually refining my skills by engaging with platforms like CodeCademy. Here, I tackle coding challenges and undertake new projects to enhance my development abilities.
+I graduated from Code Institute and am continually refining my skills by engaging with platforms like CodeCademy. Here, I tackle coding challenges and undertake new projects to enhance and develop my abilities.
 
 ## Contact Me
 
