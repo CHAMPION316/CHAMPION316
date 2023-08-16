@@ -10,8 +10,6 @@ My primary objective is to secure a position as a Fullstack Software Developer a
 
 I graduated from Code Institute and am continually refining my skills by engaging with platforms like CodeCademy. Here, I tackle coding challenges and undertake new projects to enhance and develop my abilities.
 
-## Contact Me
-
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/royer-segura-43ab4b20a/">
   <img
