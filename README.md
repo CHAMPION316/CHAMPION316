@@ -37,6 +37,7 @@ I graduated from Code Institute and am continually refining my skills by engagin
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
     <img alt="Fontawesome" src="https://img.shields.io/badge/fontawesome-4f89d0?logo=fontawesome&logoColor=white&style=for-the-badge" />
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  </p>
 
  🗄️ **Databases**
