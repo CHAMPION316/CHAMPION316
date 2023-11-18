@@ -38,7 +38,7 @@ I graduated from Code Institute and am continually refining my skills by engagin
     <img alt="Fontawesome" src="https://img.shields.io/badge/fontawesome-4f89d0?logo=fontawesome&logoColor=white&style=for-the-badge" />
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
  </p>
 
  📂 **Databases**
@@ -46,7 +46,7 @@ I graduated from Code Institute and am continually refining my skills by engagin
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-84caec?logo=sqlite&logoColor=blue&style=for-the-badge" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  </p>
 
  🖧 **Version Control, IDEs and Markdown**
@@ -61,6 +61,7 @@ I graduated from Code Institute and am continually refining my skills by engagin
  🏦 **Hosting**
 <p dir="auto">
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
+    <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
  </p>
  
  ☁️ **Cloud Storage**
