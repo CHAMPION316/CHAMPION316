@@ -20,7 +20,7 @@ I graduated from Code Institute and am continually refining my skills by engagin
 
 ## MY TECH STACK
 
-:computer: **Technologies**
+🖥️ **Technologies**
 
 <p dir="auto">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" /> 
@@ -38,15 +38,18 @@ I graduated from Code Institute and am continually refining my skills by engagin
     <img alt="Fontawesome" src="https://img.shields.io/badge/fontawesome-4f89d0?logo=fontawesome&logoColor=white&style=for-the-badge" />
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
  </p>
 
- 🗄️ **Databases**
+ 📂 **Databases**
   <p dir="auto">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-84caec?logo=sqlite&logoColor=blue&style=for-the-badge" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
  </p>
 
- 💻 **Version Control, IDEs and Markdown**
+ 🖧 **Version Control, IDEs and Markdown**
  <p dir="auto">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
     <img alt="GitHub  Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
@@ -69,6 +72,11 @@ I graduated from Code Institute and am continually refining my skills by engagin
  🎨 **UX/UI &amp; Wireframes**
  <p dir="auto">
     <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
- </p> 
+ </p>
+
+ 🧪 **Testing**
+ <p dir="auto">
+   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+ </p>
 
  ![](https://komarev.com/ghpvc/?username=your-github-CHAMPION316&color=brightgreen)
